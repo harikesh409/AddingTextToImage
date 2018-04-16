@@ -6,11 +6,8 @@ To use the code download the source code and openCV library.
 1. [Python 3](https://www.python.org/downloads/)
 2. [Numpy](https://pypi.python.org/pypi/numpy)
 3. Install all packages into their default locations.
-4. Download latest [OpenCV](https://opencv.org/releases.html)
-5. Goto **opencv/build/python2.7** folder.
-6. Copy cv2.pyd to C:/Python27/lib/site-packeges.
-7. Download the source code provided and you can run it.
-
+4.Install openCV using the following command<br/>
+`pip install opencv-python`
 ## Inputs
 1. Enter the source image path including the name and extension.<br/>
 For example your image file is in E drive then you have to enter E:/car.jpg
